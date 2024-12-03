@@ -37,5 +37,5 @@ A aparência do Chill Guy foi planejada para criar uma conexão instantânea com
 
 ## Visual Inspirador
 
-![Chill Guy](./assets/ChillGuy.webm)
+[ChillGuy](https://github.com/user-attachments/assets/c18cb5d9-f9b6-4469-8922-2252b119420f)
 _Apenas um cara tranquilo._
