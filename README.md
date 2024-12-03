@@ -1,4 +1,4 @@
-# virtual-human-chill-guy
+# Virtual Human Chill Guy
 
 No ritmo frenético do mundo moderno, quem nunca quis dar uma pausa e conversar com alguém que exala calmaria? O **Chill Guy** é o humano virtual perfeito para isso.
 
